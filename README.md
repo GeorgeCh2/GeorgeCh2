@@ -1,5 +1,10 @@
-### Hi there 👋
+### Yoo, I'm George Chou 👋
+---
 
+- ☕️ Java.
+- ✍️ [Blogger](https://georgech2.github.io)
+- 🍳 Cooking
+- 🏋️‍♀️ Fitness
 <!--
 **GeorgeCh2/GeorgeCh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
