@@ -14,6 +14,7 @@
 |[Brooklyn](https://github.com/pedrommcarrasco/Brooklyn)|MacOS 屏保|Mac|
 |[iterm2配置](https://cloud.tencent.com/developer/article/1822517)|Mac 命令行工具配置|Mac|
 |[CentOS 升级 gcc](https://www.cnblogs.com/jixiaohua/p/11732225.html)|CentOS 升级 gcc 版本|Linux|
+|[FFmpeg 读取视频帧信息](https://github.com/GeorgeCh2/GeorgeCh2/blob/main/read_video_frames.md)|通过 FFmpeg 命令读取视频帧信息|FFmpeg|
 
 <!--
 **GeorgeCh2/GeorgeCh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
