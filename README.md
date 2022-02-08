@@ -1,10 +1,9 @@
 ### Yoo, I'm George Chou 👋
 ---
-
-- ☕️ Java.
-- ✍️ [Blogger](https://georgech2.github.io)
-- 🍳 Cooking
-- 🏋️‍♀️ Fitness
+你好，我是 georgechou，生活工作在杭州，一名 Javaer，生命不息，折腾不止。喜欢有趣的东西，喜欢亲自动手操作的事情。
+通过读书充实自己，通过烹饪疗愈自己。希望可以交到更多有趣的朋友～
+- [我的2022](https://github.com/GeorgeCh2/2022).
+- [我的博客](https://georgech2.github.io)
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GeorgeCh2)]()
 
