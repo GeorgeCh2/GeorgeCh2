@@ -4,6 +4,7 @@
 通过读书充实自己，通过烹饪疗愈自己。希望可以交到更多有趣的朋友～
 - [我的2022](https://github.com/GeorgeCh2/2022).
 - [我的博客](https://georgech2.github.io)
+- [我的烹饪指南](https://georgechou.gitbook.io/my-cook-book/)
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GeorgeCh2)]()
 
