@@ -13,6 +13,7 @@
 |-|-|-|
 |[Brooklyn](https://github.com/pedrommcarrasco/Brooklyn)|MacOS 屏保|Mac|
 |[iterm2配置](https://cloud.tencent.com/developer/article/1822517)|Mac 命令行工具配置|Mac|
+|[raycast](https://www.raycast.com/)|Mac launcher|Mac|
 |[CentOS 升级 gcc](https://www.cnblogs.com/jixiaohua/p/11732225.html)|CentOS 升级 gcc 版本|Linux|
 |[FFmpeg 读取视频帧信息](https://github.com/GeorgeCh2/GeorgeCh2/blob/main/read_video_frames.md)|通过 FFmpeg 命令读取视频帧信息|FFmpeg|
 |[性能测试应该怎么做？](https://coolshell.cn/articles/17381.html)|软件性能测试|软件工程|
