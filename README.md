@@ -8,6 +8,7 @@
 ---
 通过读书充实自己，通过烹饪疗愈自己。希望可以交到更多有趣的朋友～
 - [我的博客](https://georgech2.github.io)
+- [2023年周记](https://georgech2.github.io/#/posts/15)
 - [我的烹饪指南](https://georgechou.gitbook.io/my-cook-book/)
 - [我的2022（实验一年下来发现自己记录不了太多的东西，改为在博客中直接记录）](https://github.com/GeorgeCh2/2022)
 
