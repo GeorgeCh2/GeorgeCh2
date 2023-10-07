@@ -1,15 +1,18 @@
 ### Yoo, I'm George Chou 👋
 ---
-你好，我是 georgechou，生活工作在杭州，一名 Javaer，生命不息，折腾不止。喜欢有趣的东西，喜欢亲自动手操作的事情。
+Hi, you can call me george, I'm a SofterWare Developer. Loves to try new areas and keeps a curious mind about the world.
 
-![image](https://user-images.githubusercontent.com/22410736/215254359-a79470a9-68d2-457d-a34e-43c2f6cb5649.png)
-提醒自己一定不要成为这样的工程师，遇到影响效率、故障的问题，做到一次性解决&掌握  
+Words from a senior that enlightened me:
+> I've seen too many old developers, and young developers, every day in the operation of the SSH password, SSH springboard machine, SSH target machine, a little SSH break, start over; or SSH after being stuck, wait for it ......
+On this issue showed no desire to know, no spirit of exploration, no one-time to get the problem of the vigor, so get used to it.
+
+Always remind myself that I must not become such a developer, encounter problems that affect efficiency, and failure, and do a one-time solution & mastery.
 
 ---
-通过读书充实自己，通过烹饪疗愈自己。希望可以交到更多有趣的朋友～
-- [我的博客](https://georgech2.github.io)
-- [2023年周记](https://georgech2.github.io/#/posts/15)
-- [我的烹饪指南](https://georgechou.gitbook.io/my-cook-book/)
+Enjoys watching TV, reading, and cooking. I hope I can make more interesting friends~
+- [My Blog](https://georgech2.github.io)
+- [2023 Weekly Memoirs](https://georgech2.github.io/#/posts/15)
+- [My Cooking Guide](https://georgechou.gitbook.io/my-cook-book/)
 - [我的2022（实验一年下来发现自己记录不了太多的东西，改为在博客中直接记录）](https://github.com/GeorgeCh2/2022)
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GeorgeCh2)]()
