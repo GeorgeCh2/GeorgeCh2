@@ -13,7 +13,7 @@ Enjoys watching TV, reading, and cooking. I hope I can make more interesting fri
 - [My Blog](https://georgech2.github.io)
 - [2023 Weekly Memoirs](https://georgech2.github.io/#/posts/15)
 - [My Cooking Guide](https://georgechou.gitbook.io/my-cook-book/)
-- [我的2022（实验一年下来发现自己记录不了太多的东西，改为在博客中直接记录）](https://github.com/GeorgeCh2/2022)
+- [My 2022 (experimenting for a year and realizing I can't keep track of much, I'll just keep track of it in my blog)](https://github.com/GeorgeCh2/2022)
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GeorgeCh2)]()
 
