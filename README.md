@@ -1,6 +1,7 @@
 ### Yoo, I'm George Chou 👋
 ---
 Hi, you can call me george, I'm a SofterWare Developer. Loves to try new areas and keeps a curious mind about the world.
+I have two cats. Cats save the world.🐈🐈‍⬛～
 
 Words from a senior that enlightened me:
 > I've seen too many old developers, and young developers, every day in the operation of the SSH password, SSH springboard machine, SSH target machine, a little SSH break, start over; or SSH after being stuck, wait for it ......
