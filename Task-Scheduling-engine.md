@@ -1,9 +1,10 @@
 ## Task Scheduling engine
+![task scheduling engine](task_schduling_engine.jpeg)
 Responsible for the overall task and resource scheduling of the platform.
 ### Resource scheduling
 According to the cluster load pressure and node health, dynamically adjust the resource water level, and go online and offline for service nodes.
 ### Task scheduling
-According to the geographic location of the data source, the quality of network access, and the resource load of each node, the task is scheduled to the most suitable node for execution. If abnormality is detected, the scheduling engine will automatically switch the task to a healthy node to ensure the stable execution.
+According to the geographic location of the data source, the quality of network access, and the resource load of each node, the task is scheduled to the most suitable node for execution. If the abnormality is detected, the scheduling engine automatically switches the task to a healthy node to ensure stable execution.
 ### Technology Architecture
 * **Programming Language**：Java
 * **Framework**: Spring Boot
