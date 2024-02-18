@@ -1,3 +1,4 @@
+![maintenance](maintenance.jpeg)
 The maintenance (or operations) system primarily serves internal development, operations, and product teams within the company. Its main functions include:
 ### Task Scheduling Management
 Viewing details of tasks submitted by users, Viewing task logs. Pausing and restarting tasks. Monitoring task workloads. Performing web-shell operations on machines where tasks are running.
